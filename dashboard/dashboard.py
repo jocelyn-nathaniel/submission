@@ -14,11 +14,7 @@ import seaborn as sns
 
 sns.set_style("dark")
 
-st.write(
-    """
-    # Proyek Analisis Data: Bike Sharing Dataset
-    """
-)
+st.header("Proyek Analisis Data: Bike Sharing Dataset")
 
 day_df = pd.read_csv("day.csv")
 hour_df = pd.read_csv("hour.csv")
