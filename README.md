@@ -1,6 +1,6 @@
 # Proyek Analisis Data: Bike Sharing Dataset Dashboard
 
-## Setup Environment Google Colab  
+## Setup Environment - Anaconda  
 ``` 
 pip install -r requirements.txt
 ```
