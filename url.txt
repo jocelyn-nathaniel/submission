@@ -1,2 +1,2 @@
-streamlit: https://submission-proyek-akhir-data.streamlit.app/
+streamlit: https://submission-proyek-python.streamlit.app/
 github: https://friendly-system-r4w449p9pr4635vpv.github.dev/
